@@ -1,0 +1,9 @@
+.Card7 {
+    width: 370px;
+}
+
+.MuiGrid-grid-xs-4 {
+    flex-grow: 0 !important;
+    max-width: 24.333333% !important;
+    flex-basis: 33.333333% !important;
+}

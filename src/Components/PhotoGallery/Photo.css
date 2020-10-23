@@ -1,0 +1,20 @@
+/* .Card1 {
+   height: 2000px;
+} */
+
+/* .img2 {
+    height: 20vh;
+}
+
+.box {
+    height:  20px !important;
+} */
+
+ .image-gallery-slide {
+    max-height: calc(37vh - 80px) !important;
+    max-width: 100%;
+}
+
+.image-gallery-image .image-gallery-content {
+    max-height: calc(100vh - 80px) !important;
+}

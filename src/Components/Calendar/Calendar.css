@@ -1,0 +1,13 @@
+.react-calendar {
+    width: 350px;
+    max-width: 103% !important;
+    background: white;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+}
+.react-calendar__navigation {
+    height: 44px;
+    margin-bottom: 1em;
+    background-color: #3cd63c;
+}

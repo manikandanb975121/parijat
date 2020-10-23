@@ -1,0 +1,18 @@
+.main-footer {
+    color: white;
+    background: linear-gradient(90deg, rgb(42, 38, 107) 0%, rgb(25, 87, 6) 100%);
+    padding-top: 1em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .para {
+    color: white;
+  }
+
+  .para:hover {
+    border: 4px;
+    color: white;
+    color: green;
+  }
